@@ -31,8 +31,9 @@ It's now the employee management/CRM application. The usability can be enhanced 
 8. Thymeleaf Security to take care of login form, csrf, buttons displaying according to authorities.
 9. Validation of form for new/edit custom validation for e-mail.
 10. Java MVC technology to manage requests and models.
-11. Maven to manage a Dependencies.
-12. Jar file is deployed on AWS Elastic Beanstalk and database on Amazon RDS
+11. Bootstrap is a template for visuals cuteness.
+12. Maven to manage a Dependencies.
+13. Jar file is deployed on AWS Elastic Beanstalk and database on Amazon RDS
 
 [Enjoy the live app](http://crmthymeleafsecurityjdbccrud-env.eba-fmwehpni.eu-central-1.elasticbeanstalk.com/showMyLoginPage?logout)
 
