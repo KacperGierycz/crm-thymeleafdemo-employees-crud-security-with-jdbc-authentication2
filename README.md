@@ -1,7 +1,8 @@
 # crm-thymeleafdemo-employees-crud-security-with-jdbc-authentication2
 
-// [link to live App on AWS](http://crmthymeleafsecurityjdbccrud-env.eba-fmwehpni.eu-central-1.elasticbeanstalk.com/showMyLoginPage?logout)
-
+<!--
+ [link to live App on AWS](http://crmthymeleafsecurityjdbccrud-env.eba-fmwehpni.eu-central-1.elasticbeanstalk.com/showMyLoginPage?logout)
+-->
 work in progress with the visual part of the application in screenshots from AWS due to free tier limit 
 
 CRM/Employee... management tool is a base for many applications. It's a spring boot basses app with a security layer
@@ -37,6 +38,7 @@ It's now the employee management/CRM application. The usability can be enhanced 
 12. Maven to manage a Dependencies.
 13. Jar file is deployed on AWS Elastic Beanstalk and database on Amazon RDS
 
+<!--
 [Enjoy the live app](http://crmthymeleafsecurityjdbccrud-env.eba-fmwehpni.eu-central-1.elasticbeanstalk.com/showMyLoginPage?logout)
-
+-->
  
