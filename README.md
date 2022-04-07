@@ -19,6 +19,8 @@ The app welcomes with a login page and displays a table of persons with their cr
 There are 3 roles: an employee who can see a list and search for a specific name/surname, a manager who can add a form with custom validation and edit the specific credential, the admin who can delete the record.
 
 
+![login](https://user-images.githubusercontent.com/57790974/162133558-b4f03cfb-f88c-459c-acb2-29c1087c7a6d.jpg)
+
 # What is it for 
 It's now the employee management/CRM application. The usability can be enhanced according to desired business needs.
 
