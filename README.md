@@ -21,6 +21,15 @@ There are 3 roles: an employee who can see a list and search for a specific name
 
 ![login](https://user-images.githubusercontent.com/57790974/162133558-b4f03cfb-f88c-459c-acb2-29c1087c7a6d.jpg)
 
+![employe](https://user-images.githubusercontent.com/57790974/162133619-b1e8c100-ef2e-411b-a6a8-44dc3923af32.jpg)
+
+![edit](https://user-images.githubusercontent.com/57790974/162133639-a7762e9f-914a-49fd-816e-8bdedd6d6eef.jpg)
+
+![deleteE](https://user-images.githubusercontent.com/57790974/162133654-f49a67e8-df91-4a05-b0a4-9e83bebaf75b.jpg)
+
+![addemploye](https://user-images.githubusercontent.com/57790974/162133685-1b91e4b3-e494-4ce9-b927-dc5f0a852d71.jpg)
+
+
 # What is it for 
 It's now the employee management/CRM application. The usability can be enhanced according to desired business needs.
 
